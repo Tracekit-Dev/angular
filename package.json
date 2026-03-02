@@ -1,6 +1,6 @@
 {
   "name": "@tracekit/angular",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "TraceKit Angular Integration - Error capture and navigation breadcrumbs for Angular 17+",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -27,7 +27,7 @@
     "dev": "tsup --watch"
   },
   "peerDependencies": {
-    "@tracekit/browser": "^1.0.0",
+    "@tracekit/browser": "^0.1.1",
     "@angular/core": ">=17.0.0",
     "@angular/router": ">=17.0.0"
   },
